@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nome": "Giulia Lazaro Amendola",
+      "dataNascimento": "23/05/1980",
+      "cpf": "45897780846",
+      "convenio": "S",
+      "telefone": "(18)99821-6275",
+      "email": "giulialazaro01@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Gustavo Lazaro Amendola",
+      "dataNascimento": "23/03/1980",
+      "cpf": "123456789",
+      "convenio": "S",
+      "telefone": "(43)98282373",
+      "email": "gulazaro94@gmail.com",
+      "id": 2
+    }
+  ],
+  "animal": [
+    {
+      "nomedocliente": "Giulia Lazaro Amendola",
+      "datanascAnimal": "20/01/2010",
+      "especie": "Cachorro",
+      "id": 1
+    },
+    {
+      "nomedocliente": "Gustavo Lazaro Amendola",
+      "datanascAnimal": "2/01/2020",
+      "especie": "Vira-Lata",
+      "id": 2
+    }
+  ]
+}
